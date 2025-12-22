@@ -1,4 +1,4 @@
-Hey there!👋<br>I’m [Can Sahin](csahin.com), a Computer Science graduate from uOttawa, passionate about building software and machine learning systems.<br><br>The profile picture is my cat, Kısmet. Her name is a Turkish word meaning fate, often used in the sense of luck.
+Hey there!👋<br>I’m [Can Sahin](www.csahin.com), a Computer Science graduate from uOttawa, passionate about building software and machine learning systems.<br><br>The profile picture is my cat, Kısmet. Her name is a Turkish word meaning fate, often used in the sense of luck.
 
 
 ## 🌐 Socials:
