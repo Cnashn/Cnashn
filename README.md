@@ -1,4 +1,12 @@
-Hey there!👋<br>I’m [Can Sahin](https://csahin.com/), a Computer Science graduate from uOttawa, passionate about building software and machine learning systems.<br><br>The profile picture is my cat, Kısmet. Her name is a Turkish word meaning fate, often used in the sense of luck.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cnashn.cnashn">
+
+<h1 align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=calibri&size=22&pause=1000&color=11F70E&background=E6E6E600&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I+am+Can+Sahin" alt="Typing SVG" /></a></h1>
+
+
+
+I am a Computer Science graduate from the University of Ottawa, passionate about building software and machine learning systems.<br><br>The profile picture is my cat, Kısmet. Her name is a Turkish word meaning fate, often used in the sense of luck.
 
 
 ## 🌐 Socials:
