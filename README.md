@@ -6,7 +6,7 @@
 
 
 
-I am a Computer Science graduate from the University of Ottawa, passionate about building software and machine learning systems.<br><br>The profile picture is my cat, Kısmet. Her name is a Turkish word meaning fate, often used in the sense of luck.
+Software Engineer with hands-on experience building and maintaining production-oriented systems in Python, focused on clean APIs, data processing, and reliability. Experienced in developing REST APIs, integrating with relational databases using SQL, and structuring backend codebases for maintainability and scalability. Background in applied machine learning used within end-to-end software systems, alongside automation and backend workflows.<br><br>The profile picture is my cat, Kısmet. Her name is a Turkish word meaning fate, often used in the sense of luck.
 
 
 ## 🌐 Socials:
