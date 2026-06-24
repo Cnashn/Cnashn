@@ -6,8 +6,7 @@
 
 
 
-Software Engineer with hands-on experience building and maintaining production-oriented systems in Python, focused on clean APIs, data processing, and reliability. Experienced in developing REST APIs, integrating with relational databases using SQL, and structuring backend codebases for maintainability and scalability. Background in applied machine learning used within end-to-end software systems, alongside automation and backend workflows.<br><br>The profile picture is my cat, Kısmet. Her name is a Turkish word meaning fate, often used in the sense of luck.
-
+Software Engineer with hands-on experience building and maintaining production-oriented systems in Python, focused on clean APIs, data processing, and reliability. Experienced in developing REST APIs, integrating with relational databases using SQL, and structuring backend codebases for maintainability and scalability. Background in applied machine learning used within end-to-end software systems, alongside automation and backend workflows.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansahin1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cansahin2001@gmail.com) 
