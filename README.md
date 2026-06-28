@@ -24,7 +24,7 @@ APIs, relational databases, cloud infrastructure, and LLM systems.
 
   **Backend & Cloud**
   <p>
-    <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,gcp,terraform,prometheus,grafana,linux,git" />
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,docker,aws,gcp,terraform,prometheus,grafana,linux,git," />
   </p>
 
   **Frontend**
