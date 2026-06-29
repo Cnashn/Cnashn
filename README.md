@@ -7,7 +7,7 @@
 
 
 Software engineer who builds and ships software end to end, from full-stack web apps and backend services to the cloud
-infrastructure that runs them. Works across the stack in Python, Go, and TypeScript / React, with production experience in REST
+infrastructure that runs them. Works across the stack in Python, Java, and TypeScript / React, with production experience in REST
 APIs, relational databases, cloud infrastructure, and LLM systems.
 
 ## 🌐 Socials:
