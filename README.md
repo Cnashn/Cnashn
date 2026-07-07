@@ -2,13 +2,7 @@
 
 <h1 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=calibri&size=22&pause=1000&color=1cb9d7&background=E6E6E600&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I+am+Can" alt="Typing SVG" /></a></h1>
-
-
-
-Software engineer who builds and ships software end to end, from full-stack web apps and backend services to the cloud
-infrastructure that runs them. Works across the stack in Python, Java, and TypeScript / React, with production experience in REST
-APIs, relational databases, cloud infrastructure, and LLM systems.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=calibri&size=22&pause=1000&color=1cb9d7&background=E6E6E600&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I+am+Can" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansahin1/)
