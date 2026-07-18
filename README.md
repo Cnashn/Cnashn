@@ -13,12 +13,12 @@
 
 **Languages**
   <p>
-    <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,go" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,go,cs" />
   </p>
 
   **Backend & Cloud**
   <p>
-    <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,docker,aws,gcp,terraform,prometheus,grafana,linux,git," />
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,docker,aws,gcp,terraform,prometheus,grafana,linux,git,dotnet" />
   </p>
 
   **Frontend**
