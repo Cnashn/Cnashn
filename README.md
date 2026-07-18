@@ -23,7 +23,7 @@
 
   **Frontend**
   <p>
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
   </p>
 
 
